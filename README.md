@@ -1,6 +1,6 @@
 # wonderful-quote
 
-> A Vue.js project
+> A Vue.js(first steps) project by Denis Shakin
 
 ## Build Setup
 
